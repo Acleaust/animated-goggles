@@ -1,0 +1,31 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-weight:500;
+    text-align: center;
+    color: #34495E;
+    font-size: 22px;
+}
+
+input, select {
+    width: 30%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button {
+    font-family: 'Raleway', sans-serif;
+    font-weight:500;
+    background-color: #34495E;
+    border: none;
+    color: #eeeeee;
+    padding: 14px 28px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+    font-size: 16px;
+}
